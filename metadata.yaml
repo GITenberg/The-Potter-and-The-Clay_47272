@@ -1,4 +1,5 @@
 _repo: The-Potter-and-The-Clay_47272
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Harding, Charlotte
@@ -7,12 +8,17 @@ contributor:
     deathdate: 1951
     gutenberg_agent_id: '5711'
     url: http://www.gutenberg.org/2009/agents/5711
+covers:
+- cover_type: archival
+  image_path: 47272-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Peterson, Maud Howard
     gutenberg_agent_id: '44227'
     url: http://www.gutenberg.org/2009/agents/44227
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47272#The-Potter-and-The-Clay
 gutenberg_issued: '2014-11-02'
 gutenberg_type: Text
 identifiers:
